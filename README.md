@@ -1,6 +1,3 @@
-1.App Name: HERO.IO
-
-2. Description :  HERO.IO হলো একটি স্মার্ট অ্যাপ প্ল্যাটফর্ম, যেখানে ব্যবহারকারীরা নতুন, জনপ্রিয় এবং ইনোভেটিভ অ্যাপ এক জায়গায় খুঁজে পেতে পারেন। এখানে প্রতিটি অ্যাপের বিস্তারিত তথ্য, রেটিং, ডাউনলোড সংখ্যা, রিভিউ এবং পারফরম্যান্স বিশ্লেষণ সহজেই দেখা যায়।
-ব্যবহারকারীরা তাদের প্রয়োজন অনুযায়ী অ্যাপ তুলনা করতে পারেন, রিভিউ পড়ে সঠিক সিদ্ধান্ত নিতে পারেন এবং নিজের পছন্দের অ্যাপটি সহজেই খুঁজে পেতে পারেন — সবকিছু এক প্ল্যাটফর্মে, সহজ ও আকর্ষণীয়ভাবে!
-
-3. Technologies: (Html, tailwind css, javaScript, react js)
+###1.App Name: HERO.IO
+ ###2.Description: HERO.IO is a smart app platform where users can discover new, popular, and innovative apps all in one place. Each app comes with detailed information, ratings, download numbers, reviews, and performance analysis that are easy to view. Users can compare apps based on their needs, read reviews to make informed decisions, and easily find their preferred apps — all on one platform, in a simple and engaging way
+###3. Technologies: (Html, tailwind css, javaScript, react js)
